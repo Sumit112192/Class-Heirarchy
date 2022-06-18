@@ -2,7 +2,6 @@
 
 import re
 import networkx as nx
-from io import TextIOWrapper, TextIOBase
 import os
 
 prog = re.compile(r"class (?P<subclass>\w+)(\((?P<superclasses>[\s\w,=.]*)\))*:")

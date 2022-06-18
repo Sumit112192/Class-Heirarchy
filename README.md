@@ -1,11 +1,10 @@
 # Class Heirarchy
-![Project Image](project-image-url)
+![Project Image](https://drive.google.com/uc?export=view&id=13Cl93PVsPoi9rbEjCWrvqa-aiE9_tr0e)
 
-> This is a ReadMe template to help save you time and effort.
+> No need to search for class inheritance any more.
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -16,37 +15,34 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
-We are aiming to create a python script that can generate a heirarchy tree of the library. Specifically the tree structure of your overall code by specifying inheritance in the classes, present in the program. 
+We are aiming to create a python script that can generate a class heirarchy tree of a library/program(written in python). Specifically the tree structure of your overall code by specifying inheritance in the classes, present in the program. 
 
 
 #### Technologies
 
-- Latex 
-- Various python libraries
+- Python
+- networkx
+- graphviz
+- Unix command line tools (find, grep)
 
 [Back To The Top](#read-me-template)
 
 ---
 
 ## How To Use
+To add ....
 
 #### Installation
+To add...
 
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
 
 ---
 
 ## References
-[manim library](https://github.com/ManimCommunity/manim)
+[https://gist.github.com/mrocklin/3332164](https://gist.github.com/mrocklin/3332164)
 ---
-[latex code](https://www.overleaf.com/read/qbjntfvhgkqk)
+<!-- [latex code](https://www.overleaf.com/read/qbjntfvhgkqk) -->
 ---
 [Back To The Top](#read-me-template)
 
@@ -87,22 +83,4 @@ SOFTWARE.
 
 [Back To The Top](#read-me-template)
 
-
-
-
-# Thing to do in Class-Heirarchy
-Things to learn and implement for now
-- [ ] Getting info about classes from a py file.
-- [ ] Know about some python latex packages
-- [ ] Converting the classes info into a nested loop that can be read by latex forest package
-- [ ] Create the required heirarchy tree from the nested loop using the latex library.
-
-While learning new packages, our first approach is watching Youtube Videos, If that doesn't help we go through the documentation provided by the library community. 
-Finally our last option is the source code, we have to read the source code of the library. 
-But reading about it is too dificult and figuring about parent classes in OOPs is time confusing.
-So, to solve this problem, We are aiming to create a python script that can generate a heirarchy tree of the library.
-
-Currently We tried to create the [manim library](https://github.com/ManimCommunity/manim) class heirarchy tree manually using latex. Since, it was done manually it took a lot of time and it is incomplete for now. 
-
-Here's the [latex code](https://www.overleaf.com/read/qbjntfvhgkqk)
 
