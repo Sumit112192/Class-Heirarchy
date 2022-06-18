@@ -29,7 +29,7 @@ if __name__ == "__main__":
     if len(argv) == 3:
         location, name = argv[1:]
     else:
-        print("Usage:\n%s sympy/core/ core\nevince core.pdf"%argv[0])
+        print("Usage:\n%s sympy/core/ outfile_file_name"%argv[0])
         exit()
     stream = grep_stream(location)
     G = nx_from_stream(stream)
