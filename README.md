@@ -5,7 +5,7 @@ Things to learn and implement for now
 - [ ] Converting the classes info into a nested loop that can be read by latex forest package
 - [ ] Create the required heirarchy tree from the nested loop using the latex library.
 
-While learning new packages, our first approach is watching Youtube Videos, If that doesn't help we go through the documentation provided by the library communit.y 
+While learning new packages, our first approach is watching Youtube Videos, If that doesn't help we go through the documentation provided by the library community. 
 Finally our last option is the source code, we have to read the source code of the library. 
 But reading about it is too dificult and figuring about parent classes in OOPs is time confusing.
 So, to solve this problem, We are aiming to create a python script that can generate a heirarchy tree of the library.
