@@ -23,7 +23,7 @@ We are aiming to create a python script that can generate a class heirarchy tree
 - Python
 - networkx
 - graphviz
-- Unix command line tools (find, grep)
+- Unix command line tools (find, grep, xargs)
 
 [Back To The Top](#read-me-template)
 
