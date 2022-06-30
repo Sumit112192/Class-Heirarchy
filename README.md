@@ -29,11 +29,28 @@ We are aiming to create a python script that can generate a class heirarchy tree
 
 ---
 
-## How To Use
-To add ....
 
 #### Installation
-To add...
+Installation of pip and python3
+
+Install the following python packages.
+```pip
+pip install networkx
+pip install pydot
+```
+We would also be needing the graphviz software for the script to run.
+
+Install from [here](https://graphviz.org/download/)
+## How To Use
+git clone or download the python library from github you want to create Class Heirarchy diagram of.
+
+Say I downloaded the manim library from github and moved the folder to the current folder where class_heeirarchy.py file exists.
+
+Run
+```bash
+python class_heirarchy.py manim output
+```
+where manim is the folder containing all my .py files of the library and output is the output pdf name i.e output.pdf
 
 
 
